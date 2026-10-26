@@ -1,0 +1,2 @@
+# app-ads.txt for senstudiosltd.com (SEN STUDIOS COMPANY LIMITED)
+# Publisher entries for Google AdMob and Unity Ads will be added here.
